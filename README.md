@@ -10,7 +10,6 @@
     "npm run unit-test" realiza o teste unitário, usado durante o curso para testar as novas atualizações que eram feitas no código.
   
 # Tecnologia utilizada:
-    "Api",
-    "TypeScript",
-    "Node",
-    "ES6"
+TypeScript,
+Node,
+ES6
